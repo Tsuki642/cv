@@ -3,6 +3,10 @@ img {border-radius: 50%;}
 .image {flex-basis: 10%}
 .text {font-size: 220%; padding-left:2%;border-radius: 20%px;}
 
+body {
+    background-color:#B7C4CF;
+}
+
 hr {
   border-top-style: dotted;
   border-bottom: none;
