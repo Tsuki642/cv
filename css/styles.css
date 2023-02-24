@@ -1,1 +1,12 @@
+img {border-radius: 50%;}
+.container{display:flex;align-items: left;justify-content: left}
+.image {flex-basis: 10%}
+.text {font-size: 220%; padding-left:2%;border-radius: 20%px;}
 
+hr {
+  border-top-style: dotted;
+  border-bottom: none;
+  border-top-width: 1em;
+  width: 10%;
+  color:white
+}
