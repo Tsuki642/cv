@@ -4,7 +4,7 @@ img {border-radius: 50%;}
 .text {font-size: 220%; padding-left:2%;border-radius: 20%px;}
 
 body {
-    background-color:hsl(192, 64%, 73%);
+    background-color:rgb(189, 205, 214);
 }
 
 hr {
@@ -12,5 +12,5 @@ hr {
   border-bottom: none;
   border-top-width: 1em;
   width: 10%;
-  color:rgb(177, 177, 177)
+  color:rgb(96, 150, 180)
 }
