@@ -46,6 +46,10 @@ li a{
     text-decoration: dotted;
 }
 
-li a:hover {
+li a:hover:not(.active){
     background-color:#324b79;
+}
+
+.active {
+    background-color: aliceblue;
 }
