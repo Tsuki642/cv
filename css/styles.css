@@ -32,3 +32,5 @@ table{
     width:100%;
 
 }
+
+tr:hover {background-color: rgb(185, 222, 253);}
