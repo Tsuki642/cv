@@ -33,4 +33,27 @@ table{
 
 }
 
-tr:hover {background-color: rgb(185, 222, 253);}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #626ea5;
+}
+
+li{
+    float:left;
+
+}
+
+li a{
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: dotted;
+}
+
+li a:hover {
+    background-color:#626ea5;
+}
