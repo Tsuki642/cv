@@ -33,14 +33,6 @@ table{
 
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #626ea5;
-}
-
 li{
     float:left;
 
@@ -55,5 +47,5 @@ li a{
 }
 
 li a:hover {
-    background-color:#626ea5;
+    background-color:#324b79;
 }
